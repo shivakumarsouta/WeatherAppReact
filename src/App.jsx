@@ -72,7 +72,7 @@ function App() {
             <h2 className="country_per">{weatherData.weather[0].main}</h2>
           </div>
         ) : (
-          <p>No weather data available. Try searching again.</p>
+          <h2 className="container_degree">No data for this.</h2>
         )}
 
         <form className="form" onSubmit={handleSubmit}>
