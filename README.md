@@ -24,7 +24,7 @@ A simple React.js weather app that lets users search by city and view live weath
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/shivkumars005/WeatherAppReact.git
+git clone https://github.com/shivakumarsouta/WeatherAppReact.git
 cd WeatherAppReact
 ```
 
